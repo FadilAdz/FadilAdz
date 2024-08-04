@@ -1,4 +1,4 @@
-<img align="left" src="Fadz.png">
+<img align="left" src=/assets/Fadz.png>
 
 ### Hey!
 
