@@ -5,7 +5,6 @@
 I'm **Fadil**, i’m currently Studying at [Pelita Bangsa University](https://www.pelitabangsa.ac.id/). I’m currently learning **Full-Stack Development**.
 <br>
 I love writing command-line tools. <br>
-Fun fact : I Speak 3 Languages **(Indonesian, English, Japanese)**
 
 
 
