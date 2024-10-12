@@ -26,3 +26,4 @@ I love writing command-line tools. <br>
   <a href = "mailto:fadiladzima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=footer)
