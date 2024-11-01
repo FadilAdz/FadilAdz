@@ -2,7 +2,7 @@
 
 ### Hey!
 
-I'm **Fadil**, i’m currently Studying at [Pelita Bangsa University](https://www.pelitabangsa.ac.id/). I’m currently learning **Full-Stack Development**.
+I'm **Fadil**, i’m currently Studying at [Pelita Bangsa University](https://www.pelitabangsa.ac.id/). I’m currently learning **Mobile App Development**.
 <br>
 I love writing command-line tools. <br>
 
