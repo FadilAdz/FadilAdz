@@ -1,7 +1,7 @@
 <img align="left" src=/assets/Fadz.png>
 
 ### Hey!
-I'm **Fadil**, I'm a freelance UI/UX Designer. Currently I am Studying at [Pelita Bangsa University](https://www.pelitabangsa.ac.id/). <br>
+I'm **Fadil**, I'm a freelancer UI/UX Designer. Currently I am Studying at [Pelita Bangsa University](https://www.pelitabangsa.ac.id/). <br>
 I’m currently learning **Mobile App Development**.
 <br> <br>
 I love writing command line tools and everything about design. <br>
