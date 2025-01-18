@@ -35,6 +35,6 @@ I love writing command line tools and everything about design. <br>
   <a href = "https://linkedin.com"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=FadilAdz&color=lightgrey&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=FadilAdz&color=lightgrey&style=for-the-badge)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=footer)
