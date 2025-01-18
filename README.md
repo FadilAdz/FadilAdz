@@ -38,7 +38,3 @@ I love writing command line tools and everything about design. <br>
 ![Profile Views](https://komarev.com/ghpvc/?username=FadilAdz&color=lightgrey&style=for-the-badge)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=footer)
-
-<h2>🐍 My Contributions 🐍</h2>
-<br>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/FadilAdz/FadilAdz/output/github-contribution-grid-snake.svg" />
