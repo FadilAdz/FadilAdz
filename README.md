@@ -2,9 +2,9 @@
 
 ### Hey!
 I'm **Fadil**, I'm a freelancer UI/UX Designer. Currently I am Studying at [Pelita Bangsa University](https://www.pelitabangsa.ac.id/). <br>
-I’m currently learning **Mobile App Development**.
+I’m currently learning **Cybersecurity and Kali Linux**.
 <br> <br>
-I love writing command line tools and everything about design. <br>
+I love everything about **Cybersecurity and Design.** <br>
 
 
 
