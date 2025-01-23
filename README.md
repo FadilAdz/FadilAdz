@@ -31,7 +31,4 @@ I love everything about **Cybersecurity and Design.** <br>
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FadilAdz&color=lightgrey&style=for-the-badge)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FadilAdz&layout=donut&theme=dark)](https://github.com/FadilAdzima/github-readme-stats)
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=footer)
