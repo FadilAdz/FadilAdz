@@ -1,4 +1,4 @@
-<img align="left" src=/assets/Fadz.png>
+<img align="left" src=/assets/crow.png>
 
 ### Hey!
 I'm **Fadil**, I'm a freelancer UI/UX Designer. Currently I am Studying at [Pelita Bangsa University](https://www.pelitabangsa.ac.id/). <br>
