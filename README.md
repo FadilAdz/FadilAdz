@@ -18,9 +18,9 @@ I love everything about **Cybersecurity and Design.** <br>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/php/" target="_blank"> <img src="https://camo.githubusercontent.com/0f6e3081e3769bba6a971d5d0b93c314b5e2a2082079f5892932ebf0589584d1/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f7068702d6f726967696e616c2e737667" alt="php" width="40" height="40"/> </a>
 <a href="https://figma.com" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo-0.png" alt="figma" width="50" height="50"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="boostrap" width="45" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="boostrap" width="45" height="40"/> </a> <br> <br>
 
-<br> <br>
+
 
 ### Talk with me :
 <div> 
