@@ -1,7 +1,7 @@
 <img align="left" src=/assets/crow.png>
 
 ### Hey!
-I'm **Fadil**, I'm a freelancer UI/UX Designer. Currently I am Studying at [Pelita Bangsa University](https://www.pelitabangsa.ac.id/). <br>
+I'm **Fadil**, I'm informatics engineering student. Currently I am Studying at [Pelita Bangsa University](https://www.pelitabangsa.ac.id/). <br>
 I’m currently learning **Cybersecurity and Networking**.
 <br> <br>
 I love writing lines of code and about design. <br>
