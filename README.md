@@ -4,7 +4,7 @@
 I'm **Fadil**, I'm informatics engineering student. Currently I am Studying at [Pelita Bangsa University](https://www.pelitabangsa.ac.id/). <br>
 I’m currently learning **Cybersecurity and Networking**.
 <br> <br>
-I love writing lines of code and about design. <br>
+I love writing lines of code and I like learning. <br>
 
 
 
