@@ -1,4 +1,4 @@
-<img align="left" src=/assets/crow.png>
+<img align="left" width="120" height="152" alt="Image" src="https://github.com/user-attachments/assets/61989ec6-712a-4f12-82fd-41e4c82efbb7" />
 
 ### Hey!
 I'm **Fadil**, I'm informatics engineering student. Currently I am Studying at [Pelita Bangsa University](https://www.pelitabangsa.ac.id/). <br>
