@@ -16,6 +16,7 @@ I love writing lines of code and I like learning. <br>
 <a> <img src="https://icons.iconarchive.com/icons/bokehlicia/captiva/256/wireshark-icon.png" width="40" height="40" alt="Wireshark" /> </a>
 <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 <a> <img src="https://www.dockhunt.com/_next/image?url=https%3A%2F%2Fdockhunt-images.nyc3.cdn.digitaloceanspaces.com%2Ff5f43386-11d9-4978-b8f0-1497a875881e&w=384&q=75" width="40" height="40" alt="Burp Suite"/> </a>
+<a> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
   
 </p> <br>
 
