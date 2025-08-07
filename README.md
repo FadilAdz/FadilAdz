@@ -4,7 +4,6 @@
 I'm **Fadil**, I'm informatics engineering student. Currently I am Studying at [Pelita Bangsa University](https://www.pelitabangsa.ac.id/). <br>
 I am a **Cyber Security Enthusiast**.
 <br> <br>
-Hacking is not just a science, hacking is the art.<br>
 <h1 align="right">𖤐</h1>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=footer)
